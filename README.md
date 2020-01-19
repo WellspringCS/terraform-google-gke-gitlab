@@ -1,6 +1,6 @@
 # terraform-google-gke-gitlab
 
-This module creates a reslient and fault tolerant GitLab installation using Google
+This module creates a resilient and fault-tolerant GitLab installation using Google
 Kubernetes Engine (GKE) as the computing environment and the following services for storing
 data:
 - CloudSQL for PostgreSQL
